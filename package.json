@@ -1,0 +1,29 @@
+{
+  "name": "web_scrapper",
+  "version": "1.0.0",
+  "description": "command line program that can parse remote pages, read html and write content in file disk.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FioFiyo/Web_Scrapper.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "command",
+    "line"
+  ],
+  "author": "Fio Lighthouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FioFiyo/Web_Scrapper/issues"
+  },
+  "homepage": "https://github.com/FioFiyo/Web_Scrapper#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.74.0"
+  }
+}
